@@ -4,4 +4,4 @@ def str_func(text):
 
 def upcase_litter(text):
     '''все буквы в верхнем регистре'''
-    return str.title(text)
+    return stp.title(text)
